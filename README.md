@@ -17,7 +17,7 @@ optional arguments:
 ```
 
 TSVA can do tissue specific annotation for 30 different tissues and even more sub-tissues!
-Please see following list for all supported tissues so far:
+Please see the following list for all supported tissues so far:
 
     Adipose Tissue
         Adipose - Subcutaneous
