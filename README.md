@@ -1,2 +1,2 @@
 # TSVA
-Tissue specific variant annotation
+A toolkit for tissue specific variant effect prediction
